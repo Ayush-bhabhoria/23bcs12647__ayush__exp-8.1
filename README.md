@@ -1,4 +1,4 @@
-# 23BCS13058_Harsh-Bhardwaj_Exp.8.1
+# 23BCS12647_Ayush_Exp.8.1
 
 ## 🔐 JWT Authentication for Secure API Routes
 
@@ -20,5 +20,4 @@ Implement authentication and route protection using **JSON Web Tokens (JWT)** in
 
 ---
 
-### 👨‍💻 Made By:
-**Harsh Bhardwaj**
+
